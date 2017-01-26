@@ -22,9 +22,7 @@
     },
     "versionFirst": "3.11",
     "uniqCompNum": 23,
-    "versionPublish": "3.11",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "versionPublish": "3.11"
   },
   "pages": {
     "index": {
@@ -108,10 +106,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
