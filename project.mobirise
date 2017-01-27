@@ -718,73 +718,70 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whole-design-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whole-design-2000x1545.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/janelle-marquez-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo.gif",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/mj-record-label-2000x1993-800x797.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mj-record-label-2000x1993.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/janelle-maqruez-side-1-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janelle-maqruez-side-1-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/janelle-marquez-side-2-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janelle-marquez-side-2-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/logo-with-name-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-with-name-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
