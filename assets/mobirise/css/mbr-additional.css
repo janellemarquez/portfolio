@@ -512,6 +512,10 @@ h6,
 #contacts1-d P {
   text-align: right;
 }
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -572,7 +576,4 @@ h6,
 #ext_menu-h .link[aria-expanded="true"],
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#contacts1-i P {
-  text-align: right;
 }
